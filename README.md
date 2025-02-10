@@ -2,7 +2,7 @@
 ## Getting Started
 
 
-2. **Set Up the Project**
+1. **Set Up the Project**
 
 ```
 yarn install
